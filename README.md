@@ -1,16 +1,15 @@
-# chat_app
+# Chat App
 
-A new Flutter project.
+Building an Advanced App
 
-## Getting Started
+Adding Authentication, Image Upload, Push Notifications & More
+- Connecting a (Third-Party) Backend via a SDK
+- Adding User Authentication
+- Uploading Images to a Backend
+- Sending & Handling Push Notifications
 
-This project is a starting point for a Flutter application.
+Section14 : [Flutter & Dart - The Complete Guide：2023 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
+<img src="" width="270" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
