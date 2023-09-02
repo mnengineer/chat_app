@@ -11,9 +11,8 @@ Adding Authentication, Image Upload, Push Notifications & More
 Section14 : [Flutter & Dart - The Complete Guide：2023 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
 ## Demo
-<p float="left">
-  <img src="./docs/ChatApp_Signup.gif" width="270" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./docs/ChatApp_Signin.gif" width="270" />
-</p>
+### Signup
+<p float="left"><img src="./docs/ChatApp_Signup.gif" width="270" /></p>
 
+### Signin
+<p float="left"><img src="./docs/ChatApp_Signin.gif" width="270" /></p>
