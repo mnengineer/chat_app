@@ -24,6 +24,7 @@ class _NewMessageState extends State<NewMessage> {
       return;
     }
     FocusScope.of(context).unfocus();
+    _messageController.clear();
 
     final user = FirebaseAuth.instance.currentUser;
     if (user == null) {
@@ -46,8 +47,6 @@ class _NewMessageState extends State<NewMessage> {
       'username': data['username'],
       'userImage': data['imageUrl'],
     });
-
-    _messageController.clear();
   }
 
   @override
